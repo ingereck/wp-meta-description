@@ -15,6 +15,8 @@
 if ( ! defined( 'ABSPATH' ) ) {
 
 	exit;
+	
+}
 
 function example_head_meta() {
 
