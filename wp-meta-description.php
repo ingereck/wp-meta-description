@@ -36,4 +36,3 @@ function example_head_meta() {
 }
 
 add_action( 'wp_head', 'example_head_meta' );
- 
