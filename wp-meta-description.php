@@ -7,7 +7,6 @@
  * Author URI: https://ingereck.net/
  * Version: 0.1.0
  * Text Domain: wp-meta-description
- * GitHub Plugin URI: https://github.com/afragen/github-updater
  * Domain Path: /languages/
  * License: GPLv3 or later
  */
